@@ -13,4 +13,4 @@ authors:
     affiliation: "Department of Artificial Intelligence, Konyang University"
     orcid: "https://orcid.org/0000-0002-3916-768X"
 repository-code: "https://github.com/WSKIM-KYU/eeg-evaluation-audit"
-# doi: "[Zenodo DOI, added after the first release]"
+doi: "10.5281/zenodo.23608169"
