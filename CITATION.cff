@@ -1,8 +1,17 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite the article and this software."
-title: "EEG evaluation audit: random, time-split and cross-subject evaluation with recording-fingerprint controls"
-version: "1.2.0"
+title: "EEG evaluation audit: evaluation schemes, dependence-preserving permutation tests and simulations for window-based EEG classification"
+abstract: "Analysis code accompanying Cho and Kim, 'Random data splitting and window-level significance tests overstate evidence from EEG classification: dependence-preserving permutation tests, design comparisons and simulations'. Implements random-window, within-recording time and cross-subject evaluation; binomial, window-level and dependence-preserving permutation tests; label-free diagnostics (time-block pseudo-labels, participant identification); a replication on a public dataset with block and interleaved designs; and ground-truth and data-calibrated simulations, including type I error and power of evaluation-scheme x test combinations."
+version: "1.3.0"
+date-released: "2026-10-28"
 license: MIT
+keywords:
+  - EEG
+  - brain-computer interface
+  - data leakage
+  - cross-validation
+  - permutation test
+  - exchangeability
 authors:
   - family-names: Cho
     given-names: Ha Rang
@@ -13,4 +22,4 @@ authors:
     affiliation: "Department of Artificial Intelligence, Konyang University"
     orcid: "https://orcid.org/0000-0002-3916-768X"
 repository-code: "https://github.com/WSKIM-KYU/eeg-evaluation-audit"
-doi: "10.5281/zenodo.23608169"
+doi: "10.5281/zenodo.23608168"
