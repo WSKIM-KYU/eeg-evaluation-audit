@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite the article and this software."
 title: "EEG evaluation audit: random, time-split and cross-subject evaluation with recording-fingerprint controls"
-version: "1.1.0"
+version: "1.2.0"
 license: MIT
 authors:
   - family-names: Cho
